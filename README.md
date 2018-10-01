@@ -12,7 +12,7 @@
 
 # DNA-Seq
 
-**Contribution by:** @jahnavibhask, @senait2018 and @dktanwar
+**Contribution by:** [@jahnavibhask](https://github.com/jahnavibhask), [@senait2018](https://github.com/senait2018) and [@dktanwar](https://github.com/dktanwar)
 
 ## Introduction
 
