@@ -9,3 +9,6 @@ brainstorm-group2 created by GitHub Classroom
 
 4. Technologies - Illumina, oxford nanopore, etc
 
+
+Links to add:
+https://en.wikipedia.org/wiki/DNA_sequencing
