@@ -5,7 +5,7 @@ brainstorm-group2 created by GitHub Classroom
 
 2. Fluorescent label tagged nucleotides or sequence-specific restriction enzymes can be used to find the sequence of the DNA strand.
 
-3. Applications - can check for mutations (changes in the base sequence) in the genome, identify and categorise organisms based on their genome sequence. It does not give expression status but more about the presence or absence of the DNA sequence element.
+3. Applications - can check for mutations (changes in the base sequence) in the genome, identify and categorise organisms based on their genome sequence, for validation of cloning experiments. It does not give expression status but more about the presence or absence of the DNA sequence element.
 
 4. Technologies - Illumina, oxford nanopore, etc
 
